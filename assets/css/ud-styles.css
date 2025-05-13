@@ -2610,4 +2610,21 @@ p {
     padding: 10px 20px;
   }
 }
+
+/* === Popular Cities Section Custom Styles === */
+.ud-cities {
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+.ud-cities .ud-section-title {
+  padding-left: 0;
+}
+.ud-cities .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.ud-cities .ud-single-city {
+  margin-bottom: 24px;
+}
+
 /*# sourceMappingURL=ud-styles.css.map */
